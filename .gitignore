@@ -1,0 +1,23 @@
+# Node.js dependencies
+**/node_modules/
+
+# Build output
+**/dist/
+
+# Vite cache
+.vite/
+
+# Log files
+*.log
+
+# TypeScript cache
+*.tsbuildinfo
+
+
+.eslintcache
+
+
+.vscode/
+.idea/
+.DS_Store
+**/.env
