@@ -101,6 +101,5 @@ The website is currently experiencing some issues. We appreciate any contributio
 ## Contributing
 Feel free to submit pull requests and open issues to improve the project! Contributions to the **README** are also welcome.
 
-## License
-This project is licensed under the MIT License.
+
 
